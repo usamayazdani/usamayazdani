@@ -24,7 +24,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Dom](https://user-images.githubusercontent.com/79838583/146630801-d0f21342-6e8b-447a-9051-7e69bdc5b17d.png)
+  ![Dom](https://img.shields.io/badge/Dom-javascript-blu)
 
 
 - ⚙️ &nbsp;
