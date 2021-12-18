@@ -38,7 +38,7 @@
   
 
 <br/>
-<h3> 🛠 &nbsp; Skills! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
+<h3> 🛠 &nbsp; Projects! https://www.fastemoji.com/%E2%9C%8C%F0%9F%8F%BD-Meaning-Emoji-Emoticon-Victory-Hand,-Type-4-Ascii-Art-U+1F3FD-U+270C-Japanese-Kaomoji-Smileys-5937.html</h3>
 
 
 
