@@ -37,7 +37,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 
-<br/>
 <h3> ✌🏽 &nbsp; Projects!✌🏽</h3>
 - 💻 &nbsp;
   ![Restaurant Managment System](https://img.shields.io/badge/Restaurant%20Managment%20System-oop%20-pink)
@@ -45,6 +44,7 @@
 
 
 
+<br/>
 
 
 <h3> 🤝🏻 &nbsp;Contact Me:) </h3>
