@@ -37,14 +37,13 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 
-<h3> ✌🏽 &nbsp; Projects!✌🏽</h3>
+<h3> ✌🏽 &nbsp; Projects! ✌ &nbsp🏽</h3>
 - 💻 &nbsp;
   ![Restaurant Managment System](https://img.shields.io/badge/Restaurant%20Managment%20System-oop%20-pink)
   ![caesar cipher ](https://img.shields.io/badge/caesar%20cipher-Assemly%20Language%20-white)
 
 
 
-<br/>
 
 
 <h3> 🤝🏻 &nbsp;Contact Me:) </h3>
