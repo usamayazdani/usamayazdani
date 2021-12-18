@@ -54,9 +54,9 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <ul>
-    <li>    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  <\li>
-    <li>usamayazdani143@gmail<\li>
-   <\ul>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <li>usamayazdani143@gmail</li>
+   </ul>
   </a>&nbsp;&nbsp;
 </p>
 
