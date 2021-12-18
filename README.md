@@ -1,4 +1,12 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=usamayazdani)
+![](https://komarev.com/ghpvc/?username=usamayazdani&color=blue)
+![](https://komarev.com/ghpvc/?username=usamayazdani&color=dc143c)
+![](https://komarev.com/ghpvc/?username=usamayazdani&style=flat-square)
+![](https://komarev.com/ghpvc/?username=usamayazdani&label=PROFILE+VIEWS)
+
+
+
 
 <!--
 **usamayazdani/usamayazdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
