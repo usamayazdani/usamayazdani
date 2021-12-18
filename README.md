@@ -12,7 +12,7 @@
 - 💻 &nbsp; "while((Be_happy)){code(); };!"
 - 🕋 &nbsp; "And Allah found you in lost and guided [you] <-{surah rehman}"
 
-<h3> 🛠 &nbsp; Skils! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
+<h3> 🛠 &nbsp; Skills! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -53,7 +53,7 @@
   <a href="https://twitter.com/UsamaYazdani2">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="usamayazdani143@gmail.com">
+  <a href="mailto:usamayazdani143@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
