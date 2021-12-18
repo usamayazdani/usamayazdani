@@ -38,14 +38,10 @@
   
 
 <br/>
-<br>
 <h3> ✌🏽 &nbsp; Projects!✌🏽</h3>
 - 💻 &nbsp;
-![Restaurant Managment System](https://img.shields.io/badge/Restaurant%20Managment%20System-oop%20-pink)
-![caesar cipher ](https://img.shields.io/badge/caesar%20cipher-Assemly%20Language%20-white)
-</h3>
-
-</br>
+  ![Restaurant Managment System](https://img.shields.io/badge/Restaurant%20Managment%20System-oop%20-pink)
+  ![caesar cipher ](https://img.shields.io/badge/caesar%20cipher-Assemly%20Language%20-white)
 
 
 
