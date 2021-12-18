@@ -38,7 +38,9 @@
   
 
 <br/>
-<h3> 🛠 &nbsp; Projects! https://www.fastemoji.com/%E2%9C%8C%F0%9F%8F%BD-Meaning-Emoji-Emoticon-Victory-Hand,-Type-4-Ascii-Art-U+1F3FD-U+270C-Japanese-Kaomoji-Smileys-5937.html</h3>
+<h3> ✌🏽 &nbsp; Projects!✌🏽</h3>
+![Restaurant Managment System](https://img.shields.io/badge/Restaurant%20Managment%20System-oop%20-pink)
+![caesar cipher ](https://img.shields.io/badge/caesar%20cipher-Assemly%20Language%20-white)
 
 
 
